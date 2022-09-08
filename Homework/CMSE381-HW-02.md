@@ -16,6 +16,8 @@ This homework covers three classes. Problems listed below are from [the textbook
 
 *Note: the content from Weds, 9/14, will be included on HW3 due next week.*
 
+
+
 ### Important Reminders
 
 - Homeworks must be typed. Some options for this include word, overleaf/latex, or by including a pdf of a jupyter notebook (not the .ipynb file please!). Some students have had more success in the jupyter case of printing from the browser window.  The "convert to pdf" option requires you to have latex installed. 
