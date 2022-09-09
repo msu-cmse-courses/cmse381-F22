@@ -16,7 +16,12 @@ This homework covers three classes. Problems listed below are from [the textbook
 
 *Note: the content from Weds, 9/14, will be included on HW3 due next week.*
 
+### <span style="color: green"> NEW: </span>Submit homework to crowdmark, not D2L
 
+We are going to try something new for this homework so please plan accordingly.  You will upload your homework to the crowdmark website. More info to follow on links to get to the crowdmark website, but the main changes are:
+- Answers to each question will need to be uplaoded separately.  So this will basically require taking portions of the pdf you were generating before and separating them when uploading.  
+- Feedback on the homework will be posted via the crowdmark website 
+- Your overall grades will still be visible on D2L when they are posted. 
 
 ### Important Reminders
 
