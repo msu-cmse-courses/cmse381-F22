@@ -18,9 +18,10 @@ This homework covers three classes. Problems listed below are from [the textbook
 
 ### <span style="color: green"> NEW: </span>Submit homework to crowdmark, not D2L
 
-We are going to try something new for this homework so please plan accordingly.  You will upload your homework to the crowdmark website. More info to follow on links to get to the crowdmark website, but the main changes are:
-- Answers to each question will need to be uplaoded separately.  So this will basically require taking portions of the pdf you were generating before and separating them when uploading.  
-- Feedback on the homework will be posted via the crowdmark website 
+We are going to try something new for this homework so please plan accordingly.  You will upload your homework to the crowdmark website. The main changes are:
+- You will be emailed a link to the assessment and will upload your solutions to that page. [Here is a link to the Crowdmark help page with information on submitting the homework.](https://crowdmark.com/help/completing-and-submitting-an-assessment/)
+- Answers to each question will need to be uploaded separately.  So this will basically require taking portions of the pdf you were generating before and separating them when uploading.  
+- Feedback on the homework will be posted via the Crowdmark website 
 - Your overall grades will still be visible on D2L when they are posted. 
 
 ### Important Reminders
