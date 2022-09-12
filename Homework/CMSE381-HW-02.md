@@ -12,7 +12,7 @@ This homework covers three classes. Problems listed below are from [the textbook
     * 3.7.8. (*Note that the commands listed are for R, not python, so you will have to convert the code accordingly.  Look over the jupyter notebook from class for examples.*)
 - Mon 9/12, we covered Sec 3.2 - Multiple Linear Regression
     * 3.7.1
-    * 3.7.3
+    * ~~3.7.3~~ We didn't cover this content on Monday, so this problem will be moved to HW #3. 
 
 *Note: the content from Weds, 9/14, will be included on HW3 due next week.*
 
