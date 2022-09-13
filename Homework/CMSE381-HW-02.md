@@ -10,6 +10,8 @@ This homework covers three classes. Problems listed below are from [the textbook
     * 2.4.3 (*Note we have only done irreduceable error, not Bayes error since that has to do with classification*)
 - Fri 9/9, we covered Sec 3.1 - Simple linear Regression
     * 3.7.8. (*Note that the commands listed are for R, not python, so you will have to convert the code accordingly.  Look over the jupyter notebook from class for examples.*)
+        - 3.7.8 a.iv: we haven't talked about prediction intervals, just do the confidence interval for horsepower
+        - Skip 3.7.8c. This is a command that's easy in R and a pain in python. 
 - Mon 9/12, we covered Sec 3.2 - Multiple Linear Regression
     * 3.7.1
     * ~~3.7.3~~ We didn't cover this content on Monday, so this problem will be moved to HW #3. 
