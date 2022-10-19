@@ -15,7 +15,7 @@ This homework covers three classes.
 Problems listed below are from [the textbook](https://www.statlearning.com/). 
 - 6.6.2 (a) and (b)
 - 6.6.4
-- 6.6.9 (Skip part e since we won't cover PLS until Friday.)
+- 6.6.9 (Skip part (f) since we won't cover PLS until Friday.)
 
 
 *Note: The content from Friday 10/28 will be covered on the exam.*
