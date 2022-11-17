@@ -18,6 +18,7 @@ Problems listed below are from [the textbook](https://www.statlearning.com/).
     - Uses the `OJ.csv` data set included in this folder. 
     - Do parts a, b, d, e. 
     - Added part: Build a random forest model for the same classification task. Using the techniques from the lab in class, what choice of `n_estimators` and `max_features` would you choose for your model?
+    - For part (b), note we don't have a `summary` function in the python version, so you can skip that part. But do the rest of the question.
 - 9.7.3 Parts (a) through (e). 
     - I've created a desmos toy to help you: https://www.desmos.com/calculator/hvfkvby64z
     - Feel free to include marked up screenshots of that tool in your explanation. 
