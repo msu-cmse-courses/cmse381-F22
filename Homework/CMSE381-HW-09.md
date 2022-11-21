@@ -13,9 +13,9 @@ This homework covers two classes.
 
 Problems listed below are from [the textbook](https://www.statlearning.com/). 
 - 9.7.2 
-- 9.7.8 (Uses the `OJ.csv` data set included in the folder). Do all parts, but notes are below. *Note: We're working on figuring out reasonable values for `C` where noted, will be updated, hopefully by the end of the day.*
-    * (b) Use `C=` (TBD) instead of their `cost` information. We don't have a `summary` function so that bit can be skipped.
-    * (d) we don't have a `tune` function. Instead, you should use `GridSearchCV` like we used in class. You can use `C` in the range (TBD).
+- 9.7.8 (Uses the `OJ.csv` data set included in the folder). Do all parts, but notes are below. 
+    * (b) Use `C=1` (the default) instead of the book's `cost` information. We don't have a `summary` function so that bit can be skipped.
+    * (d) we don't have a `tune` function. Instead, you should use `GridSearchCV` like we used in class. You can use `C = [0.01, 0.1, 1, 10]` in the range. However, we have noticed that particularly for the linear kernel, `GridSearchCV` can be incredibly slow. If you are having issues getting the results to finish, feel free to use a subset of `C` values from above, or set `cv=5` to use fewer splits in the $k$-fold CV. 
 
 
 
